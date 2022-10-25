@@ -1,0 +1,11 @@
+{
+  "name": "tarea-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tarea 2.js",
+  "scripts": {
+    "start": "node Tarea 2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

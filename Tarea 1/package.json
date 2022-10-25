@@ -1,0 +1,17 @@
+{
+  "name": "tarea-1",
+  "version": "1.0.0",
+  "description": "Esta es la primer tarea del curso js",
+  "main": "index.js",
+  "scripts": {
+    "mostrar": "node tarea1.js",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Primer",
+    "Tarea"
+  ],
+  "author": "Alejandro Villamayor",
+  "license": "ISC"
+}
